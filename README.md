@@ -55,8 +55,8 @@ Berikut adalah alur navigasi antar layar di dalam aplikasi ini:
 | ![Notes Light](https://github.com/user-attachments/assets/74da16dd-101e-428c-a2d9-357fdb15afea) | ![Notes Dark](https://github.com/user-attachments/assets/630a8d11-eeeb-4f43-acec-eb1256d3069a) | ![Favorites](https://github.com/user-attachments/assets/903fb8bd-fc64-4e2c-941d-c4cd6d32290c) |
 
 ### 2. Form Catatan (Tambah, Detail, Edit)
-| Add Note Screen | Note Detail Screen | Edit Note Screen |
-| :---: | :---: | :---: |
+| Add Note Screen | Note Detail Screen |
+| :---: | :---: |
 | ![Add Note](https://github.com/user-attachments/assets/5894dbae-8139-457d-9e2e-e715b4dcc60f) | ![Detail Note](https://github.com/user-attachments/assets/36ef2d63-215c-48a7-a5a6-3d19e5fbed01) | 
 
 ### 3. Profil Pengguna
