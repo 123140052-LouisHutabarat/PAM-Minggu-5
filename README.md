@@ -57,12 +57,12 @@ Berikut adalah alur navigasi antar layar di dalam aplikasi ini:
 ### 2. Form Catatan (Tambah, Detail, Edit)
 | Add Note Screen | Note Detail Screen | Edit Note Screen |
 | :---: | :---: | :---: |
-| ![Add Note](https://github.com/user-attachments/assets/5894dbae-8139-457d-9e2e-e715b4dcc60f) | ![Detail Note]("https://github.com/user-attachments/assets/36ef2d63-215c-48a7-a5a6-3d19e5fbed01) | 
+| ![Add Note](https://github.com/user-attachments/assets/5894dbae-8139-457d-9e2e-e715b4dcc60f) | ![Detail Note](https://github.com/user-attachments/assets/36ef2d63-215c-48a7-a5a6-3d19e5fbed01) | 
 
 ### 3. Profil Pengguna
 | Profile Screen | Edit Profile Form |
 | :---: | :---: |
-| ![Profile]("https://github.com/user-attachments/assets/6a36601f-b32b-42eb-99de-4d0d0610a4e4) | ![Edit Profile](https://github.com/user-attachments/assets/247ac462-5e69-46ec-9a26-a63f466cbcf1) |
+| ![Profile](https://github.com/user-attachments/assets/6a36601f-b32b-42eb-99de-4d0d0610a4e4) | ![Edit Profile](https://github.com/user-attachments/assets/247ac462-5e69-46ec-9a26-a63f466cbcf1) |
 
 ---
 
